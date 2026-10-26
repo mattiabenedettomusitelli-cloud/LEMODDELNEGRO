@@ -1,0 +1,645 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "path": "mods/1.21.1-Neoforge.Hybrid.Aquatic.1.6.9.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/1.21.1-Neoforge.Hybrid.Aquatic.1.6.9.jar",
+      "sha256": "ec509b0b41ac59abe26701b8c2694459e8bb4048deeceb9a7c3233b5ca98a9a2"
+    },
+    {
+      "path": "mods/abyssal_decor_1.21.1_0.10.0_Neoforge.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/abyssal_decor_1.21.1_0.10.0_Neoforge.jar",
+      "sha256": "d27a29b6a7ce677e5af936e6f9af12366de4373984c541ae44ce6cc44df30186"
+    },
+    {
+      "path": "mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+      "sha256": "a24674330b8de59a02e0ebe4dd81fcff15d90e8c1cdcc32980d73c1cab050933"
+    },
+    {
+      "path": "mods/aeronauticscompat-1.1.2.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/aeronauticscompat-1.1.2.jar",
+      "sha256": "5eff8158a171f7520f5fafe2db66d8309983a0fbaa0bdcfd6e107b19b1466482"
+    },
+    {
+      "path": "mods/aerowarptics-1.3.0.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/aerowarptics-1.3.0.jar",
+      "sha256": "121d1e10fdce23695d9b9c4baebdde3b0feaf42e4847447f5fd78cbb3bf6fa2d"
+    },
+    {
+      "path": "mods/alexscaves-2.0.10.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/alexscaves-2.0.10.jar",
+      "sha256": "6fad35bf07fcb977aaa32d3fe05bf122150c6a30ed16b057385040207a3b788f"
+    },
+    {
+      "path": "mods/architectury-13.0.8-neoforge.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/architectury-13.0.8-neoforge.jar",
+      "sha256": "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
+    },
+    {
+      "path": "mods/astages-2.5.3-1.21.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/astages-2.5.3-1.21.1.jar",
+      "sha256": "8aa762e34068c498cb3fda14ebb9de95ddcfdc1b19154d1d8f9109af0729e75c"
+    },
+    {
+      "path": "mods/balancedflight-1.21.1_v2.5.0.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/balancedflight-1.21.1_v2.5.0.jar",
+      "sha256": "3a502a973495e2f1b4bdb11cb2bd4f0f4c52e847d9312705c49666fe07d7169b"
+    },
+    {
+      "path": "mods/better-advanced-tooltips-2101.1.0-build.5.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/better-advanced-tooltips-2101.1.0-build.5.jar",
+      "sha256": "0f76d46f2f18eb67e67c7974170d7b27deb66473396461c8dc50d6949de1449b"
+    },
+    {
+      "path": "mods/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+      "sha256": "60b548bef04a2f0e1da686ee9035c2e3d4ed0459a17d7a4836fc26af6de6b60e"
+    },
+    {
+      "path": "mods/betterfpsdist-1.21.1-6.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/betterfpsdist-1.21.1-6.1.jar",
+      "sha256": "0c9a93977f574563b3fa425a8ea934333ce8ae4e282771dd3bcd4248d56f1b03"
+    },
+    {
+      "path": "mods/biolith-neoforge-3.0.14.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/biolith-neoforge-3.0.14.jar",
+      "sha256": "ded9169efb903198046cf44cf91a290ec836ed83a28e29179087eb860e0e6ce9"
+    },
+    {
+      "path": "mods/bluemap-5.7-neoforge.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/bluemap-5.7-neoforge.jar",
+      "sha256": "827ac3921986d0d5e9c24ef2280f47c110d22dc14d284efb65330010d2e9517d"
+    },
+    {
+      "path": "mods/cc-tweaked-1.21.1-forge-1.120.0.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/cc-tweaked-1.21.1-forge-1.120.0.jar",
+      "sha256": "81a903710d109d129c249c105695a96f4bad5e0acf7068920fb191ba791c14ce"
+    },
+    {
+      "path": "mods/Chunky-NeoForge-1.4.23.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/Chunky-NeoForge-1.4.23.jar",
+      "sha256": "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274"
+    },
+    {
+      "path": "mods/citadel-2.7.1-1.21.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/citadel-2.7.1-1.21.1.jar",
+      "sha256": "a2d4c5dd17375090467db9f66d2aae41e17cb0b324902534580078bd23944925"
+    },
+    {
+      "path": "mods/cloth-config-15.0.140-neoforge.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/cloth-config-15.0.140-neoforge.jar",
+      "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+    },
+    {
+      "path": "mods/collectorsalbum-neoforge-2.9.0+1.21.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/collectorsalbum-neoforge-2.9.0+1.21.1.jar",
+      "sha256": "d913811264d1aa48cd9fa4adce4139f3cc0a14d5b7e1302e3881bdb4a4c350f2"
+    },
+    {
+      "path": "mods/configuration-neoforge-1.21.1-3.1.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/configuration-neoforge-1.21.1-3.1.1.jar",
+      "sha256": "b903cc326e10af63226c7a45571bda1e0cf88b978c9920275806e852bcd92bc1"
+    },
+    {
+      "path": "mods/connectivity-1.21.1-7.6.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/connectivity-1.21.1-7.6.jar",
+      "sha256": "2366973ddae5ba00b9ba15a26e5b610a6648038b9f2549bf81b9ae61342b281a"
+    },
+    {
+      "path": "mods/copycats-3.0.4+mc.1.21.1-neoforge.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/copycats-3.0.4+mc.1.21.1-neoforge.1.jar",
+      "sha256": "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"
+    },
+    {
+      "path": "mods/crabbersdelight-1.21.1-1.2.6.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/crabbersdelight-1.21.1-1.2.6.jar",
+      "sha256": "dde14329fa2ee127a76c27af4dad2608c3405d3639260478f765b5d819f69dc4"
+    },
+    {
+      "path": "mods/create-1.21.1-6.0.10.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/create-1.21.1-6.0.10.1.jar",
+      "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+    },
+    {
+      "path": "mods/create-1.21.1-6.0.10.2.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/create-1.21.1-6.0.10.2.jar",
+      "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+    },
+    {
+      "path": "mods/create-1.21.1-6.0.10.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/create-1.21.1-6.0.10.jar",
+      "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+    },
+    {
+      "path": "mods/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "sha256": "a3f330d4757640f8715d991a43eedb826e4d0e51558d859c843ae6693bd35f1e"
+    },
+    {
+      "path": "mods/create-confectionery1.21.1_v1.1.3b.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/create-confectionery1.21.1_v1.1.3b.jar",
+      "sha256": "1a5022528f5c06bf2cdd39c71169c90cd61e80c3f44879c747a7debd63e25a96"
+    },
+    {
+      "path": "mods/create-enchantment-industry-2.5.0-preview-alpha1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/create-enchantment-industry-2.5.0-preview-alpha1.jar",
+      "sha256": "b25cc57696e6a26fef16437d88f3fe5a2690090e6f9728b6c72ca3e945cb07eb"
+    },
+    {
+      "path": "mods/create-integrated-farming-1.2.6.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/create-integrated-farming-1.2.6.jar",
+      "sha256": "6eef62f0a46d68e0fec18ce23c14104a0608ff9c66939c59e88c606fa268dd40"
+    },
+    {
+      "path": "mods/createbigcannons-5.11.5+mc.1.21.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/createbigcannons-5.11.5+mc.1.21.1.jar",
+      "sha256": "2c0576338ec400bef5ca373650e3e919eee602c002ce1b7b6eb0f69f3c67764a"
+    },
+    {
+      "path": "mods/createdieselgenerators-1.21.1-1.3.12.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/createdieselgenerators-1.21.1-1.3.12.jar",
+      "sha256": "becdacb4eabdee5846e9821fd6de50fd31698816151ce1e0ab23818136bcec73"
+    },
+    {
+      "path": "mods/CreateDragonsPlus-1.11.2b.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/CreateDragonsPlus-1.11.2b.jar",
+      "sha256": "9b15e464465a639de9ef5a935ae9fd94ea545904517d1428bc784a4012e0a1e2"
+    },
+    {
+      "path": "mods/createenchantablemachinery-3.6.0+mc1.21.1-neoforge.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/createenchantablemachinery-3.6.0+mc1.21.1-neoforge.jar",
+      "sha256": "933ad37b064d8c6005f1f6eb09b3274fe9f5961a6841fb9e7bb65a7bff66f653"
+    },
+    {
+      "path": "mods/createharmonics-neoforge-1.21.1-1.1.5.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/createharmonics-neoforge-1.21.1-1.1.5.jar",
+      "sha256": "39b9280fd777554bf90e1064b0df6acf0676c43153593c91b5f383eb3535ca42"
+    },
+    {
+      "path": "mods/createnuclear-2.0.0-neoforge.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/createnuclear-2.0.0-neoforge.jar",
+      "sha256": "d613a8e575d654fa9fbc14b4f5c0655dd1f89851c5bbdbc0ca95925252d70233"
+    },
+    {
+      "path": "mods/CreateNumismatics-1.1.0+neoforge-mc1.21.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/CreateNumismatics-1.1.0+neoforge-mc1.21.1.jar",
+      "sha256": "d33a33b46f923462ae6806a024851afaefa473ced0e95bf405f8ebc13abce767"
+    },
+    {
+      "path": "mods/createprism-1.2.2.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/createprism-1.2.2.jar",
+      "sha256": "3b9c80f8a0104a2cee1af2b0a17b5a500f5600c55bccc441a34063154587a8fa"
+    },
+    {
+      "path": "mods/createpropulsion-1.1.4.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/createpropulsion-1.1.4.jar",
+      "sha256": "816329242ce595d0f8b8bd1a7ea00df48470d41f5b79240fab682bbfbe6f39a1"
+    },
+    {
+      "path": "mods/createpropulsion-1.1.5.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/createpropulsion-1.1.5.jar",
+      "sha256": "5525a3a0c8b1c476cbc467d021e9d1492b58c78de31ed269eb04f169d42db0a1"
+    },
+    {
+      "path": "mods/create_bb-1.0.7-1.21.1-Neoforge.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/create_bb-1.0.7-1.21.1-Neoforge.jar",
+      "sha256": "68833088a56a2e160df7b23ce9703cde0da974b35ba41f5d86bbb758acd1ec79"
+    },
+    {
+      "path": "mods/create_bb-1.0.8-1.21.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/create_bb-1.0.8-1.21.1.jar",
+      "sha256": "36a1cf8eaef08254085f9190b6a3130dd787747ee30fb8eeb606d6a6e0f9bf4f"
+    },
+    {
+      "path": "mods/create_bluemap-1.1.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/create_bluemap-1.1.1.jar",
+      "sha256": "1dc287271f7db558146e4473954f204f526f368259a274d5df0a67e953b66050"
+    },
+    {
+      "path": "mods/create_connected-1.2.2-mc1.21.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/create_connected-1.2.2-mc1.21.1.jar",
+      "sha256": "081ca6ff6d9fbfcd97cf8b278ed4f8a67499d3f3238b9e681d8bf2dab0d358e4"
+    },
+    {
+      "path": "mods/create_hypertube-0.4.0-COMPAT-NEOFORGE.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/create_hypertube-0.4.0-COMPAT-NEOFORGE.jar",
+      "sha256": "3ccc9cdcfa70e18c8a383b7c3e388d877dc979347bb49a8c813142aa9a662102"
+    },
+    {
+      "path": "mods/create_ironworks-4.0.3-neoforge-1.21.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/create_ironworks-4.0.3-neoforge-1.21.1.jar",
+      "sha256": "d6efd546e0dce52d7a79fb98de5be4a2690e70505e9ce1ed920f0431597243fd"
+    },
+    {
+      "path": "mods/create_optical-0.4.2.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/create_optical-0.4.2.jar",
+      "sha256": "52d32c5362617c7b796efbc1a588e4d844107252fe30c5645eb10741d5c090bd"
+    },
+    {
+      "path": "mods/create_radar-0.4.9.2-1.21.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/create_radar-0.4.9.2-1.21.1.jar",
+      "sha256": "79b0b1fa211d54c819fd32642ecc3f2ddd4d92ac348764e785a0a8c1901acfbe"
+    },
+    {
+      "path": "mods/create_submarine-2.2.4.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/create_submarine-2.2.4.jar",
+      "sha256": "87a20bb20ae3c90e6838073d3a84839e251c8794f409ade8cab79f51d1de0c66"
+    },
+    {
+      "path": "mods/create_things_and_misc-4.1.0-neoforge-1.21.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/create_things_and_misc-4.1.0-neoforge-1.21.1.jar",
+      "sha256": "b215b7f55140b9f0f57d5ab3c40f5157c6e91c534ab9b92649b53e1eab11ecc0"
+    },
+    {
+      "path": "mods/cristellib-neoforge-1.21.1-3.1.7.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/cristellib-neoforge-1.21.1-3.1.7.jar",
+      "sha256": "11e05dbc97bd3fe1790bd6361747240e314c1dbf40b590ea20cc691dc8396c38"
+    },
+    {
+      "path": "mods/cultofazazelneoforge-1.1.4.11.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/cultofazazelneoforge-1.1.4.11.jar",
+      "sha256": "3a1b8f6e985f55835b9faf99226885c5c0367c19fb8d7a32b1c8a6bc5c13e2d9"
+    },
+    {
+      "path": "mods/cupboard-1.21.1-3.8.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/cupboard-1.21.1-3.8.jar",
+      "sha256": "722847521c1f9bae079bd3ec1a70b187c3186e71247ddf1182c0ea498cdec067"
+    },
+    {
+      "path": "mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/curios-neoforge-9.5.1+1.21.1.jar",
+      "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
+    },
+    {
+      "path": "mods/custom_nether_portals-neoforge-1.21.1-1.0.0.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/custom_nether_portals-neoforge-1.21.1-1.0.0.jar",
+      "sha256": "2cef4e8697312f52b0d6d1a14a79ce05ba08dde82d0aeb5be94909da336a1285"
+    },
+    {
+      "path": "mods/deeperdarker-neoforge-1.21.1-1.4.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/deeperdarker-neoforge-1.21.1-1.4.1.jar",
+      "sha256": "eee3f51222b0bcc714def002ff089ac9e131d3cae4575b542fd0a7dd101fe0af"
+    },
+    {
+      "path": "mods/DelightoFlight-1.21.1-1.3.4.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/DelightoFlight-1.21.1-1.3.4.1.jar",
+      "sha256": "66f4ca6337ba4225cff969155b458c13f965339e921fa5d005265f233d445646"
+    },
+    {
+      "path": "mods/DelightoFlight-1.21.1-1.3.4.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/DelightoFlight-1.21.1-1.3.4.jar",
+      "sha256": "66f4ca6337ba4225cff969155b458c13f965339e921fa5d005265f233d445646"
+    },
+    {
+      "path": "mods/Design-n-Decor-1.21.1-2.2b.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/Design-n-Decor-1.21.1-2.2b.jar",
+      "sha256": "af0264e8ba44b77744d9a6173b79fcc39758c5b975fbb377d4000e85bfcd2c8f"
+    },
+    {
+      "path": "mods/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
+      "sha256": "daba497eaaefe535f04f2ee6f6be11485d3d5b46676fbf0a792d26e178ef4785"
+    },
+    {
+      "path": "mods/eternalstarlight-0.9.1+1.21.1+neoforge.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/eternalstarlight-0.9.1+1.21.1+neoforge.jar",
+      "sha256": "e77369ad1a779036b243ef0f7b24776640a3ff84968e6f3be1931bc953e92b09"
+    },
+    {
+      "path": "mods/ExtraLib-3.2.2-1.21.1-NeoForge.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/ExtraLib-3.2.2-1.21.1-NeoForge.jar",
+      "sha256": "df41af63a0f16d28342a729367a6be61ed693e8abceb947d83c47d89f08e10da"
+    },
+    {
+      "path": "mods/ExtraQuests-1.7.0-1.21.1-NeoForge.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/ExtraQuests-1.7.0-1.21.1-NeoForge.jar",
+      "sha256": "954d9cc00ff3f14955e1266dfa4e1ace5aa067a4ffd37944b279131f5591cace"
+    },
+    {
+      "path": "mods/FarmersDelight-1.21.1-1.3.2.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/FarmersDelight-1.21.1-1.3.2.1.jar",
+      "sha256": "8ff438d62e1fce61542945faae45975d823e04bd6e73a07a121ea05ce2f03de7"
+    },
+    {
+      "path": "mods/FarmersDelight-1.21.1-1.3.2.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/FarmersDelight-1.21.1-1.3.2.jar",
+      "sha256": "8ff438d62e1fce61542945faae45975d823e04bd6e73a07a121ea05ce2f03de7"
+    },
+    {
+      "path": "mods/ferritecore-7.0.3-neoforge.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/ferritecore-7.0.3-neoforge.jar",
+      "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
+    },
+    {
+      "path": "mods/ftb-filter-system-neoforge-21.1.4.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/ftb-filter-system-neoforge-21.1.4.jar",
+      "sha256": "b8700e8bfd9c78b09bc7819cb28a6318b20d2bf68969bc6894a0bfa39581a99b"
+    },
+    {
+      "path": "mods/ftb-library-neoforge-2101.1.37.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/ftb-library-neoforge-2101.1.37.jar",
+      "sha256": "624c2d2d1cbadb946d967e17757bd5b2d129d4d3ed71f2da0c70607d04476ac2"
+    },
+    {
+      "path": "mods/ftb-quests-neoforge-2101.1.37.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/ftb-quests-neoforge-2101.1.37.jar",
+      "sha256": "6b42457d680108d0af5b8deb21e3fe7b92138209f0683c62441dc360d4fc01d5"
+    },
+    {
+      "path": "mods/ftb-teams-neoforge-2101.1.11.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/ftb-teams-neoforge-2101.1.11.jar",
+      "sha256": "e6bcd670493624e6906df872a9c6af4a33fe6405cac57a32c59cd4cd5838c655"
+    },
+    {
+      "path": "mods/ftb-xmod-compat-neoforge-21.1.13.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/ftb-xmod-compat-neoforge-21.1.13.jar",
+      "sha256": "c8a72a4e296001129e3daa662063343ceedac3a31f803bd5976c62b5eb9e5e21"
+    },
+    {
+      "path": "mods/geckolib-neoforge-1.21.1-4.9.2.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/geckolib-neoforge-1.21.1-4.9.2.jar",
+      "sha256": "5e548466af9ab6aca7a91a7c7d4dc0dc8bc385e22958aed5da0e7bebd0fa3fba"
+    },
+    {
+      "path": "mods/GnKinetics-1.21.1-1.0m.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/GnKinetics-1.21.1-1.0m.jar",
+      "sha256": "9f5e699b59282464aad038b88f89634b080fbee23a1e5dab5b7d954b4f10893b"
+    },
+    {
+      "path": "mods/holdfast_factions-neoforge-1.0.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/holdfast_factions-neoforge-1.0.1.jar",
+      "sha256": "9564d1722315fa03e7a082bf87bbe07179a85ad05312667c21f0222824f79ee0"
+    },
+    {
+      "path": "mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "sha256": "0d620c975619b04110b94a73d5b42d252563ff59c1eae9d21ab2ee7e38460a3c"
+    },
+    {
+      "path": "mods/icys-better-horses-2.1.7-neo-1.21.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/icys-better-horses-2.1.7-neo-1.21.1.jar",
+      "sha256": "8bd55f80e5753f53c24a9134e76de1885b73ef7011368ef60c9cfaa5214c8630"
+    },
+    {
+      "path": "mods/Incendium_1.21.x_v5.4.4.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/Incendium_1.21.x_v5.4.4.jar",
+      "sha256": "285a4f69fe2391f2175f7fc9316d727a39c79bdd214923c59284d569bce656f4"
+    },
+    {
+      "path": "mods/ip_aeronautics-2.6.4.jar.disabled",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/ip_aeronautics-2.6.4.jar.disabled",
+      "sha256": "363df30186187fad2e0e1f08d5f28be3d173f94d0f8c6e0f45259c807ee2035e"
+    },
+    {
+      "path": "mods/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "sha256": "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d"
+    },
+    {
+      "path": "mods/kotlinforforge-5.11.0-all.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/kotlinforforge-5.11.0-all.jar",
+      "sha256": "89d2ccd9d2ca2996ca3ee57b27165893f4bc4b8431be89461f8b2f8fe6162ac1"
+    },
+    {
+      "path": "mods/kotlinforforge-5.12.0-all.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/kotlinforforge-5.12.0-all.jar",
+      "sha256": "2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139"
+    },
+    {
+      "path": "mods/kubejs-neoforge-2101.7.2-build.377.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/kubejs-neoforge-2101.7.2-build.377.jar",
+      "sha256": "df9a8458b1f83fed06ba54684977911795a5153a462b81a610895f5b1f2f0cbf"
+    },
+    {
+      "path": "mods/letsdo-furniture-neoforge-1.1.4.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/letsdo-furniture-neoforge-1.1.4.jar",
+      "sha256": "c291928e4402ef638d2544fb3c551379375b80acf5a019383b57752a36196e54"
+    },
+    {
+      "path": "mods/lionfishapi-3.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/lionfishapi-3.1.jar",
+      "sha256": "aeebf0692650afbbc78259c0d4e3d5b7edf037707e8ae5d56045066d83a19cf6"
+    },
+    {
+      "path": "mods/lithostitched-1.7.13-neoforge-21.1.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/lithostitched-1.7.13-neoforge-21.1.1.jar",
+      "sha256": "a90b1d485b138328ceaa156b7897b0829eb1ee1522b997870a53129ae65e5512"
+    },
+    {
+      "path": "mods/lithostitched-1.7.13-neoforge-21.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/lithostitched-1.7.13-neoforge-21.1.jar",
+      "sha256": "a90b1d485b138328ceaa156b7897b0829eb1ee1522b997870a53129ae65e5512"
+    },
+    {
+      "path": "mods/lootjs-neoforge-1.21.1-3.7.0.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/lootjs-neoforge-1.21.1-3.7.0.jar",
+      "sha256": "d168fd80f45e5f23dced8a54fdee87347a4c7fc6ccd9c76d30ae4d067ba9c60a"
+    },
+    {
+      "path": "mods/L_Ender.s.Cataclysm.1.21.1-3.32.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/L_Ender.s.Cataclysm.1.21.1-3.32.jar",
+      "sha256": "679c8687281cdac01e80de1672f27db1baf6ad5c68c74d752806b9d5ce246ac3"
+    },
+    {
+      "path": "mods/mezz_config-1.21.1-neoforge-0.6.9-standalone.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/mezz_config-1.21.1-neoforge-0.6.9-standalone.jar",
+      "sha256": "deedd2c3cc30b142d1a50d4a82190970e33a70a86f89c9e5ba7eed8286087f9f"
+    },
+    {
+      "path": "mods/modernfix-neoforge-5.27.20+mc1.21.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/modernfix-neoforge-5.27.20+mc1.21.1.jar",
+      "sha256": "6f367ea4002c39e3cfe27e0a0be1008880a4b35a8482a78a437cfb9d8ee38273"
+    },
+    {
+      "path": "mods/modonomicon-1.21.1-neoforge-1.120.7.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/modonomicon-1.21.1-neoforge-1.120.7.jar",
+      "sha256": "1166eb113230bbc69a3e9464262195a336b29401ef03bfd47bfe86fd558578da"
+    },
+    {
+      "path": "mods/moonlight-neoforge-1.21.1-3.0.18.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/moonlight-neoforge-1.21.1-3.0.18.jar",
+      "sha256": "9a70e3e36de0ab25b7587424b3f97946288b6e8192fff7b5487f8e7ce02fddc7"
+    },
+    {
+      "path": "mods/MyNethersDelight-1.21.1-1.10.4.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/MyNethersDelight-1.21.1-1.10.4.jar",
+      "sha256": "fe246d086dcb87c7d2163fbbff09fd7e164f206238e52700fe0b3e34fb343432"
+    },
+    {
+      "path": "mods/netherdepthsupgrade-3.1.8-1.21.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/netherdepthsupgrade-3.1.8-1.21.jar",
+      "sha256": "5035d4e461d570e70800ab011a3c0d60223f99485d9a42dfd65b47dbf9c5903d"
+    },
+    {
+      "path": "mods/noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
+      "sha256": "e95209d593bc00d7c5de94f746ffd1dfbfa70ac8fbe938393ef930d00416109c"
+    },
+    {
+      "path": "mods/Nullscape_1.21.x_v1.2.14.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/Nullscape_1.21.x_v1.2.14.jar",
+      "sha256": "8749c6fdda659335e50116c18e012cdf8699b3789859c82559af2c6f425c93ae"
+    },
+    {
+      "path": "mods/oceansdelight-neoforge-1.0.4-1.21.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/oceansdelight-neoforge-1.0.4-1.21.1.jar",
+      "sha256": "30fec2263f77bcd4002995d9fc127a911c964317dbd0e3c54e348954d1722d38"
+    },
+    {
+      "path": "mods/powergrid-mc1.21.1-0.6.2.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/powergrid-mc1.21.1-0.6.2.jar",
+      "sha256": "e40d67a874431925d502af88e85064883c67936cfd689033d7df560cffcf19e7"
+    },
+    {
+      "path": "mods/railways-0.2.0-beta.2+neoforge-mc1.21.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/railways-0.2.0-beta.2+neoforge-mc1.21.1.jar",
+      "sha256": "8dd9e285da0bd01c24f2cddc14182c01b570197dc2a9c9d5aa85e0b6bae47570"
+    },
+    {
+      "path": "mods/rhino-2101.2.7-build.85.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/rhino-2101.2.7-build.85.jar",
+      "sha256": "e0e9b0e78edd380440266c0f4ea8d489dac851ef075a4566a66a6dae2f7bbb66"
+    },
+    {
+      "path": "mods/rhino-2101.2.8-build.91.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/rhino-2101.2.8-build.91.jar",
+      "sha256": "1d53d962aa4dac54bcbb4f998c1845980cf194318f1d6b1580ea6ac15cce5ef3"
+    },
+    {
+      "path": "mods/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+      "sha256": "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
+    },
+    {
+      "path": "mods/sable-neoforge-1.21.1-1.2.2.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/sable-neoforge-1.21.1-1.2.2.jar",
+      "sha256": "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8"
+    },
+    {
+      "path": "mods/sable-neoforge-1.21.1-2.0.5.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/sable-neoforge-1.21.1-2.0.5.jar",
+      "sha256": "c8710f85bc780bbf523e6726ceaaf76dd0b8c61479db497b382c6bb34317e7ab"
+    },
+    {
+      "path": "mods/simplemodsync-neoforge-1.21.1-1.4.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/simplemodsync-neoforge-1.21.1-1.4.1.jar",
+      "sha256": "454eacc618dfa768a90a7397dda591844c1b07a358d371bf38c554229faac876"
+    },
+    {
+      "path": "mods/simulatedcoasters-0.1.5.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/simulatedcoasters-0.1.5.jar",
+      "sha256": "f80b4c3cdf9fa6188804967147761b0373e150a6eadbdc53626e5ac9700b2049"
+    },
+    {
+      "path": "mods/sliceanddice-forge-4.2.4.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/sliceanddice-forge-4.2.4.jar",
+      "sha256": "c3bd743a73eed3de14f6be5221fe68655cfeed0749f8f467f2ce2012ed1416bd"
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.21.1-3.25.63.1912.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/sophisticatedbackpacks-1.21.1-3.25.63.1912.jar",
+      "sha256": "6bc4b8d7becd624a407665c147e35ada8343f77fb4246a16ab5c5aec9c17c4c7"
+    },
+    {
+      "path": "mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.6.99.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/sophisticatedbackpackscreateintegration-1.21.1-0.1.6.99.jar",
+      "sha256": "051f11abdf478597bde82b413d133c644c62f32cbf7bc66347f7dc0ac6191fdf"
+    },
+    {
+      "path": "mods/sophisticatedcore-1.21.1-1.4.58.2026.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/sophisticatedcore-1.21.1-1.4.58.2026.jar",
+      "sha256": "70a5db0b1aa1d4095ca5847d1480603e01861ba7d54afa7bb144559a0efea523"
+    },
+    {
+      "path": "mods/sound-physics-remastered-neoforge-1.21.1-1.4.10.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/sound-physics-remastered-neoforge-1.21.1-1.4.10.jar",
+      "sha256": "9eeaa9defffac7e07a4d0caa803b9e5fcb88ce68e00145487cbb727dbd7b06f8"
+    },
+    {
+      "path": "mods/Structory_26.2_v1.3.7.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/Structory_26.2_v1.3.7.jar",
+      "sha256": "e9079b2bb9bc2efb9b0f1244376488e41f8b50f25415094d8f03dc753cdfb131"
+    },
+    {
+      "path": "mods/tectonic-3.0.26-neoforge-21.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/tectonic-3.0.26-neoforge-21.1.jar",
+      "sha256": "36aa9b4a8c399c9943460a7a58d91402b6d671c10ab11b099c2ee1d75af232ea"
+    },
+    {
+      "path": "mods/Terralith_1.21.1_v2.6.2_Neoforge.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/Terralith_1.21.1_v2.6.2_Neoforge.jar",
+      "sha256": "d38bd304897731b42f6c013cdc07e082e74411e80c74aabcee385251beb3b546"
+    },
+    {
+      "path": "mods/tidal-towns-1.3.4.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/tidal-towns-1.3.4.jar",
+      "sha256": "691dc0d8ad68bc5f02d14221687286e496e5ee41314c1f282a2d51e927d0d5e7"
+    },
+    {
+      "path": "mods/timm-1.1-neoforge-1.21.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/timm-1.1-neoforge-1.21.1.jar",
+      "sha256": "2566a6f86d5420a01723f54a3e3147daba0838253b40fb002a20cfdc39d5beb0"
+    },
+    {
+      "path": "mods/t_and_t-neoforge-fabric-1.13.7+1.21.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/t_and_t-neoforge-fabric-1.13.7+1.21.1.jar",
+      "sha256": "925d61a8cee8ca013bac15cda2fcfbdf647eb1cde50c414c18298ea3a627c640"
+    },
+    {
+      "path": "mods/vista-neoforge-1.21.1-4.4.11.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/vista-neoforge-1.21.1-4.4.11.jar",
+      "sha256": "7f131e2564c423906a9410365635cebd5e5abe33cc1f9dfdfffdf547052acdbf"
+    },
+    {
+      "path": "mods/voicechat-neoforge-1.21.1-2.6.22.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/voicechat-neoforge-1.21.1-2.6.22.jar",
+      "sha256": "63116a4d21bd57221482d971dd85822f7c723c210b60411670cdb0aa26873cac"
+    },
+    {
+      "path": "mods/VS-Sable-HoseConnectors-0.1.7-1.21.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/VS-Sable-HoseConnectors-0.1.7-1.21.1.jar",
+      "sha256": "1499be55ab75cfc0006ba03796c8ccf92a9af1d3b6398712364805eb3f6daffe"
+    },
+    {
+      "path": "mods/whaleborne-1.21.1-1.2.2.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/whaleborne-1.21.1-1.2.2.jar",
+      "sha256": "4d33e466a495eed3f2f630e98296bd99794279c4527ca3bd07d3b88416b004f9"
+    },
+    {
+      "path": "mods/xaerominimap-neoforge-1.21.1-25.3.13.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/xaerominimap-neoforge-1.21.1-25.3.13.1.jar",
+      "sha256": "05fb78259566983b1e66501f46d6695bfab087e9630f3b65e82677b88244a1c2"
+    },
+    {
+      "path": "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "sha256": "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca"
+    },
+    {
+      "path": "mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "sha256": "61816c3b7c9d92c6b44f93dce87ceb0a22827f20285d5d9c4d10d519d734de04"
+    },
+    {
+      "path": "mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "sha256": "5625930dfb3240820d6e4ecf55fff0c39f70ce782fad117a4d418251184c7be0"
+    },
+    {
+      "path": "mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "sha256": "5450a64a7036237f449496837e08f3e5b3aa1d7974a10df43944172def75d8ff"
+    },
+    {
+      "path": "mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "sha256": "cdcf8fe0e08c75261048d43c6ed4898972d23e096dd04a2524c136f06416ab02"
+    },
+    {
+      "path": "mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "url": "https://github.com/mattiabenedettomusitelli-cloud/LEMODDELNEGRO/releases/download/v1.0/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "sha256": "a9cab2fc01538368862365691f7d215309801aed0b390351681b6b60a1db7b58"
+    }
+  ]
+}
